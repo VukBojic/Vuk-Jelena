@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "C:/your/project/path",
+    "command": "g++ -std=c++11 -c -o main.o main.cpp",
+    "file": "main.cpp"
+  },
+  {
+    "directory": "C:/your/project/path",
+    "command": "g++ -std=c++11 -c -o Vector2D.o Vector2D.cpp",
+    "file": "Vector2D.cpp"
+  }
+]
