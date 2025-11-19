@@ -1,7 +1,7 @@
 #include "Vector2D.h"
 #include <iostream>
 
-int Vector2D::getX() const
+int Vector2D::getX() const // Proba
 {
     return x;
 }
